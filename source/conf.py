@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sample Project Name'
-copyright = '2021, Jane Smith'
-author = 'Jane Smith'
+project = 'AB Testing With Optimizely'
+copyright = '2022, Matt Burns'
+author = 'Matt Burns'
 
 
 # -- General configuration ---------------------------------------------------
