@@ -20,3 +20,8 @@ Weekly Actions
 Weekly Hours
 ------------
 Somewhere between 8 and 9.
+
+Next Weeks Goals
+----------------
+* Have Optimizely working locally
+* Have a running web app
