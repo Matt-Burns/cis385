@@ -12,6 +12,8 @@ Weekly Actions
 * Completed `Flask Tutorial <https://flask.palletsprojects.com/en/2.0.x/tutorial/>`_. *9h*
 
   * `Web App Repo <https://github.com/Matt-Burns/my-blog>`_.
+  * :doc:`/flask/index`
+
 
 Weekly Hours
 ------------
