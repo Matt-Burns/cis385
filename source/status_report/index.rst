@@ -6,3 +6,4 @@ Status Reports
 
    20220117/index
    20220124/index
+   20220131/index
