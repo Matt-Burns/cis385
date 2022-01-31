@@ -12,12 +12,14 @@ Weekly Actions
 --------------
 * Configured Active Optimizely experiment for the first time *4.5h*
 * Added a handy Flask local development tip: :doc:`/flask/index` *2h* (doc references causing me probs, I am rethinking the overall layout of the site)
-* Created Web Experiment Walkthrough :doc:`/optimizely/index` *2h*
+* Created Web Experiment Walkthrough :doc:`/optimizely/index` *3h* (This actually took my entire Sunday afternoon and evening. I just could not settle on how I wanted to format the work I did. I will clear this up by next week.)
 
 
 Weekly Hours
 ------------
-
+10
 
 Next Week's Goals
 -----------------
+Complete Web Experiment Walkthrough
+Configure Python Arcade Library experiment.
