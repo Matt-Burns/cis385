@@ -19,6 +19,6 @@ Weekly Hours
 ------------
 10.5
 
-Next Weeks Goals
-----------------
+Next Week's Goals
+-----------------
 Create and execute a simple experiment using optimizely and my-blog.
